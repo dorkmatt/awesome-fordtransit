@@ -323,6 +323,7 @@ Please follow the [contributing guide](contributing.md) and
 - In the spirit of "If I could do it over"
   [tngw1500se discusses using ESP32 and relays](https://www.fordtransitusaforum.com/threads/wiring-if-i-had-it-to-do-over-again.87111/)
   for wiring automation
+- [Ford Transit Door Interface](https://github.com/anthonysecco/ford-transit-door-interface) using Shelly Plus RGBW PM and High Spec Connector to expose Door Control via Home Assistant
 
 ## Van Builders
 
